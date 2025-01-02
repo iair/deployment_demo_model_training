@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.codegpt
+
+# Ignore the data folder
+data/
+
+# Ignore the models folder
+models/
